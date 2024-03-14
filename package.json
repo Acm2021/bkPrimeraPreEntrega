@@ -1,0 +1,22 @@
+{
+  "name": "primerapreentrega",
+  "version": "1.0.0",
+  "description": "Primera Preentrega bk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acm2021/bkPrimeraPreEntrega.git"
+  },
+  "author": "Ale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acm2021/bkPrimeraPreEntrega/issues"
+  },
+  "homepage": "https://github.com/Acm2021/bkPrimeraPreEntrega#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
